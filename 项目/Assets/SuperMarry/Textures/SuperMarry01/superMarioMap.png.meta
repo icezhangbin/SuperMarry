@@ -1,0 +1,3003 @@
+fileFormatVersion: 2
+guid: e62da48dfeacf774fa2b8670e4b49208
+timeCreated: 1474701960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: superMarioMap_0
+    21300002: superMarioMap_1
+    21300004: superMarioMap_2
+    21300006: superMarioMap_3
+    21300008: superMarioMap_4
+    21300010: superMarioMap_5
+    21300012: superMarioMap_6
+    21300014: superMarioMap_7
+    21300016: superMarioMap_8
+    21300018: superMarioMap_9
+    21300020: superMarioMap_10
+    21300022: superMarioMap_11
+    21300024: superMarioMap_12
+    21300026: superMarioMap_13
+    21300028: superMarioMap_14
+    21300030: superMarioMap_15
+    21300032: superMarioMap_16
+    21300034: superMarioMap_17
+    21300036: superMarioMap_18
+    21300038: superMarioMap_19
+    21300040: superMarioMap_20
+    21300042: superMarioMap_21
+    21300044: superMarioMap_22
+    21300046: superMarioMap_23
+    21300048: superMarioMap_24
+    21300050: superMarioMap_25
+    21300052: superMarioMap_26
+    21300054: superMarioMap_27
+    21300056: superMarioMap_28
+    21300058: superMarioMap_29
+    21300060: superMarioMap_30
+    21300062: superMarioMap_31
+    21300064: superMarioMap_32
+    21300066: superMarioMap_33
+    21300068: superMarioMap_34
+    21300070: superMarioMap_35
+    21300072: superMarioMap_36
+    21300074: superMarioMap_37
+    21300076: superMarioMap_38
+    21300078: superMarioMap_39
+    21300080: superMarioMap_40
+    21300082: superMarioMap_41
+    21300084: superMarioMap_42
+    21300086: superMarioMap_43
+    21300088: superMarioMap_44
+    21300090: superMarioMap_45
+    21300092: superMarioMap_46
+    21300094: superMarioMap_47
+    21300096: superMarioMap_48
+    21300098: superMarioMap_49
+    21300100: superMarioMap_50
+    21300102: superMarioMap_51
+    21300104: superMarioMap_52
+    21300106: superMarioMap_53
+    21300108: superMarioMap_54
+    21300110: superMarioMap_55
+    21300112: superMarioMap_56
+    21300114: superMarioMap_57
+    21300116: superMarioMap_58
+    21300118: superMarioMap_59
+    21300120: superMarioMap_60
+    21300122: superMarioMap_61
+    21300124: superMarioMap_62
+    21300126: superMarioMap_63
+    21300128: superMarioMap_64
+    21300130: superMarioMap_65
+    21300132: superMarioMap_66
+    21300134: superMarioMap_67
+    21300136: superMarioMap_68
+    21300138: superMarioMap_69
+    21300140: superMarioMap_70
+    21300142: superMarioMap_71
+    21300144: superMarioMap_72
+    21300146: superMarioMap_73
+    21300148: superMarioMap_74
+    21300150: superMarioMap_75
+    21300152: superMarioMap_76
+    21300154: superMarioMap_77
+    21300156: superMarioMap_78
+    21300158: superMarioMap_79
+    21300160: superMarioMap_80
+    21300162: superMarioMap_81
+    21300164: superMarioMap_82
+    21300166: superMarioMap_83
+    21300168: superMarioMap_84
+    21300170: superMarioMap_85
+    21300172: superMarioMap_86
+    21300174: superMarioMap_87
+    21300176: superMarioMap_88
+    21300178: superMarioMap_89
+    21300180: superMarioMap_90
+    21300182: superMarioMap_91
+    21300184: superMarioMap_92
+    21300186: superMarioMap_93
+    21300188: superMarioMap_94
+    21300190: superMarioMap_95
+    21300192: superMarioMap_96
+    21300194: superMarioMap_97
+    21300196: superMarioMap_98
+    21300198: superMarioMap_99
+    21300200: superMarioMap_100
+    21300202: superMarioMap_101
+    21300204: superMarioMap_102
+    21300206: superMarioMap_103
+    21300208: superMarioMap_104
+    21300210: superMarioMap_105
+    21300212: superMarioMap_106
+    21300214: superMarioMap_107
+    21300216: superMarioMap_108
+    21300218: superMarioMap_109
+    21300220: superMarioMap_110
+    21300222: superMarioMap_111
+    21300224: superMarioMap_112
+    21300226: superMarioMap_113
+    21300228: superMarioMap_114
+    21300230: superMarioMap_115
+    21300232: superMarioMap_116
+    21300234: superMarioMap_117
+    21300236: superMarioMap_118
+    21300238: superMarioMap_119
+    21300240: superMarioMap_120
+    21300242: superMarioMap_121
+    21300244: superMarioMap_122
+    21300246: superMarioMap_123
+    21300248: superMarioMap_124
+    21300250: superMarioMap_125
+    21300252: superMarioMap_126
+    21300254: superMarioMap_127
+    21300256: superMarioMap_128
+    21300258: superMarioMap_129
+    21300260: superMarioMap_130
+    21300262: superMarioMap_131
+    21300264: superMarioMap_132
+    21300266: superMarioMap_133
+    21300268: superMarioMap_134
+    21300270: superMarioMap_135
+    21300272: superMarioMap_136
+    21300274: superMarioMap_137
+    21300276: superMarioMap_138
+    21300278: superMarioMap_139
+    21300280: superMarioMap_140
+    21300282: superMarioMap_141
+    21300284: superMarioMap_142
+    21300286: superMarioMap_143
+    21300288: superMarioMap_144
+    21300290: superMarioMap_145
+    21300292: superMarioMap_146
+    21300294: superMarioMap_147
+    21300296: superMarioMap_148
+    21300298: superMarioMap_149
+    21300300: superMarioMap_150
+    21300302: superMarioMap_151
+    21300304: superMarioMap_152
+    21300306: superMarioMap_153
+    21300308: superMarioMap_154
+    21300310: superMarioMap_155
+    21300312: superMarioMap_156
+    21300314: superMarioMap_157
+    21300316: superMarioMap_158
+    21300318: superMarioMap_159
+    21300320: superMarioMap_160
+    21300322: superMarioMap_161
+    21300324: superMarioMap_162
+    21300326: superMarioMap_163
+    21300328: superMarioMap_164
+    21300330: superMarioMap_165
+    21300332: superMarioMap_166
+    21300334: superMarioMap_167
+    21300336: superMarioMap_168
+    21300338: superMarioMap_169
+    21300340: superMarioMap_170
+    21300342: superMarioMap_171
+    21300344: superMarioMap_172
+    21300346: superMarioMap_173
+    21300348: superMarioMap_174
+    21300350: superMarioMap_175
+    21300352: superMarioMap_176
+    21300354: superMarioMap_177
+    21300356: superMarioMap_178
+    21300358: superMarioMap_179
+    21300360: superMarioMap_180
+    21300362: superMarioMap_181
+    21300364: superMarioMap_182
+    21300366: superMarioMap_183
+    21300368: superMarioMap_184
+    21300370: superMarioMap_185
+    21300372: superMarioMap_186
+    21300374: superMarioMap_187
+    21300376: superMarioMap_188
+    21300378: superMarioMap_189
+    21300380: superMarioMap_190
+    21300382: superMarioMap_191
+    21300384: superMarioMap_192
+    21300386: superMarioMap_193
+    21300388: superMarioMap_194
+    21300390: superMarioMap_195
+    21300392: superMarioMap_196
+    21300394: superMarioMap_197
+    21300396: superMarioMap_198
+    21300398: superMarioMap_199
+    21300400: superMarioMap_200
+    21300402: superMarioMap_201
+    21300404: superMarioMap_202
+    21300406: superMarioMap_203
+    21300408: superMarioMap_204
+    21300410: superMarioMap_205
+    21300412: superMarioMap_206
+    21300414: superMarioMap_207
+    21300416: superMarioMap_208
+    21300418: superMarioMap_209
+    21300420: superMarioMap_210
+    21300422: superMarioMap_211
+    21300424: superMarioMap_212
+    21300426: superMarioMap_213
+    21300428: superMarioMap_214
+    21300430: superMarioMap_215
+    21300432: superMarioMap_216
+    21300434: superMarioMap_217
+    21300436: superMarioMap_218
+    21300438: superMarioMap_219
+    21300440: superMarioMap_220
+    21300442: superMarioMap_221
+    21300444: superMarioMap_222
+    21300446: superMarioMap_223
+    21300448: superMarioMap_224
+    21300450: superMarioMap_225
+    21300452: superMarioMap_226
+    21300454: superMarioMap_227
+    21300456: superMarioMap_228
+    21300458: superMarioMap_229
+    21300460: superMarioMap_230
+    21300462: superMarioMap_231
+    21300464: superMarioMap_232
+    21300466: superMarioMap_233
+    21300468: superMarioMap_234
+    21300470: superMarioMap_235
+    21300472: superMarioMap_236
+    21300474: superMarioMap_237
+    21300476: superMarioMap_238
+    21300478: superMarioMap_239
+    21300480: superMarioMap_240
+    21300482: superMarioMap_241
+    21300484: superMarioMap_242
+    21300486: superMarioMap_243
+    21300488: superMarioMap_244
+    21300490: superMarioMap_245
+    21300492: superMarioMap_246
+    21300494: superMarioMap_247
+    21300496: superMarioMap_248
+    21300498: superMarioMap_249
+    21300500: superMarioMap_250
+    21300502: superMarioMap_251
+    21300504: superMarioMap_252
+    21300506: superMarioMap_253
+    21300508: superMarioMap_254
+    21300510: superMarioMap_255
+    21300512: superMarioMap_256
+    21300514: superMarioMap_257
+    21300516: superMarioMap_258
+    21300518: superMarioMap_259
+    21300520: superMarioMap_260
+    21300522: superMarioMap_261
+    21300524: superMarioMap_262
+    21300526: superMarioMap_263
+    21300528: superMarioMap_264
+    21300530: superMarioMap_265
+    21300532: superMarioMap_266
+    21300534: superMarioMap_267
+    21300536: superMarioMap_268
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: superMarioMap_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 477
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 477
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_20
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 477
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 477
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 460
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 460
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 460
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 459
+        width: 86
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19.5}
+        - {x: -43, y: -13.5}
+        - {x: -43, y: -19.5}
+        - {x: 43, y: -19.5}
+        - {x: 43, y: -17.5}
+        - {x: 11, y: 19.5}
+      - - {x: -43, y: 19.5}
+        - {x: -43, y: 13.5}
+        - {x: -27, y: 13.5}
+        - {x: -25, y: 15.5}
+        - {x: -25, y: 19.5}
+    - name: superMarioMap_32
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 460
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 460
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_34
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 460
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 460
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 460
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 460
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_38
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 460
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_39
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 460
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 443
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 443
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 443
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 443
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 443
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 443
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 443
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 443
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_48
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 443
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_49
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 443
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 443
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 443
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_52
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 443
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 446
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_54
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 443
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_55
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 443
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 443
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_57
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 446
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_58
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 443
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_59
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 443
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 431
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 431
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 431
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 431
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 431
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_68
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 431
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_69
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 431
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 431
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_71
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 431
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_72
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_73
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_74
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_75
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_79
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 409
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_81
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 409
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_82
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 409
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_83
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 409
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_84
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 409
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 409
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_86
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 409
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_87
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 409
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_88
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_89
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_90
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_91
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 392
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_93
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_94
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 392
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_95
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 398
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_96
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 398
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 398
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 398
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_99
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 398
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_100
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 398
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_101
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 398
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_102
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 398
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_103
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 398
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_104
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 392
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_105
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 392
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_106
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 392
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_107
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 392
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 375
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_109
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 375
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_110
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 375
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_111
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_112
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_113
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_114
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_115
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_116
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_117
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_118
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_119
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_120
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_121
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_122
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_123
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 375
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_124
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_125
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 375
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_126
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 375
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_127
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 375
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_128
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 358
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_129
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 358
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_130
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 358
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_131
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 358
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_132
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 358
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_133
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 358
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_134
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 358
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_135
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 358
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_136
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 358
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_137
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 358
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_138
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 358
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_139
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 361
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_140
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 358
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_141
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 358
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_142
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 358
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_143
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 361
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_144
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 358
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_145
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 358
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_146
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 341
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_147
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 341
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_148
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_149
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_150
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_151
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_152
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_153
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 341
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_154
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_155
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 341
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_156
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_157
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_158
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_159
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_160
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_161
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 324
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_162
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 324
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_163
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 324
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_164
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 324
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_165
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 324
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_166
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 324
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_167
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 307
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_168
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 307
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_169
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_170
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_171
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_172
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_173
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_174
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_175
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_176
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_177
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_178
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_179
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_180
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_181
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_182
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_183
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 273
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_184
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 273
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_185
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_186
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 256
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_187
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 256
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_188
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 256
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_189
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 256
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_190
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 256
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_191
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 256
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_192
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_193
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_194
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_195
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 239
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_196
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_197
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 239
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_198
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_199
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 239
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_200
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_201
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 239
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_202
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 205
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_203
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 205
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_204
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 205
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_205
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 205
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_206
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 188
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_210
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_211
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_212
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_213
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_214
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_215
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_219
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_220
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_221
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_222
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_223
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_224
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_230
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_231
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_232
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_233
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_234
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_235
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 121
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_236
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 121
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_237
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 121
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_243
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_244
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_245
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_246
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_247
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_248
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_249
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 104
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_250
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 104
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_251
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 103
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -41.5}
+        - {x: 42, y: -41.5}
+        - {x: 42, y: 32.5}
+        - {x: 41, y: 41.5}
+        - {x: -34, y: 41.5}
+        - {x: -42, y: 12.5}
+    - name: superMarioMap_256
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_257
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_258
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_259
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_260
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_261
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 87
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_262
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 87
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_263
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 87
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: superMarioMap_264
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: superMarioMap_265
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: superMarioMap_266
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: superMarioMap_267
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: superMarioMap_268
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
